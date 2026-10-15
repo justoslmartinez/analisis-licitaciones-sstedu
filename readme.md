@@ -51,3 +51,6 @@ El script utiliza importes simulados cargados manualmente y no lee directamente 
 Próximos pasos:
 
 Automatizar la lectura del Excel, validar los estados administrativos y utilizar importes oficiales autorizados para profundizar el análisis.
+
+
+ACLARACION: proyecto creado para la plataforma Coderhouse - no incluye datos reales -.
